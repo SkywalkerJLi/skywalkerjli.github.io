@@ -8,5 +8,7 @@ title: index
 
 # Hi! I'm Skywalker Li 
 
-![Personal Picture](assets/Headshot.jpg)
+<div class="img">
+    <img class="feature-img" src="{{ 'assets/Headshot.jpg' }}" />
+</div>
 Here are some of my thoughts and works!
