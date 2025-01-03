@@ -31,11 +31,14 @@ navigation:
     url: "/"
   - title: "About"
     url: "/about"
+  - title: "Experience"
+    url: "/experience"
   - title: "Projects"
     url: "/projects"
 
 header_pages:
   - about.markdown
+  - experience.md
   - projects.md
 
 # Build settings
