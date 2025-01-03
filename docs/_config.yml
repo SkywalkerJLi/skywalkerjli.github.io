@@ -34,6 +34,10 @@ navigation:
   - title: "Projects"
     url: "/projects"
 
+header_pages:
+  - about.markdown
+  - projects.md
+
 # Build settings
 theme: minima
 # plugins:

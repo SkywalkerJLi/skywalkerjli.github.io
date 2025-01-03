@@ -8,4 +8,5 @@ title: index
 
 # Hi! I'm Skywalker Li 
 
+![Personal Picture](assets/Headshot.jpg)
 Here are some of my thoughts and works!
