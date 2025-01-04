@@ -257,4 +257,7 @@
 .feature-img {
   max-width: 30%;
   float: right;
+  margin-bottom: $spacing-unit;
+  margin-left: $spacing-unit;
+  border-radius: 5%;
 }
