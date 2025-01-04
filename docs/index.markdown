@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: index
+title: Skywalker Li
 ---
-
-# Skywalker Li 
 
 <div class="img">
     <img class="feature-img" src="{{ 'assets/Headshot.jpg' }}" />
