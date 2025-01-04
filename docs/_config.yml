@@ -25,19 +25,17 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  skywalkerjli
+author: Skywalker Li
 
 navigation:
   - title: "Home"
     url: "/"
-  - title: "About"
-    url: "/about"
   - title: "Experience"
     url: "/experience"
   - title: "Projects"
     url: "/projects"
 
 header_pages:
-  - about.markdown
   - experience.md
   - projects.md
 
