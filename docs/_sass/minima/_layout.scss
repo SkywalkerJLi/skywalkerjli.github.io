@@ -269,6 +269,84 @@
 }
 
 .regular-img {
-  max-width: 30%;
+  max-width: 50%;
   float: right;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 100%;
+  max-width: 300px; /* Adjust as needed */
+  height: 300px; /* Adjust as needed */
+  overflow: hidden;
+  float: right;
+  position: relative;
+}
+
+/* Slides container (holds all slides) */
+.slides-wrapper-3 {
+  display: flex;
+  width: 300%; /* Total width = 100% * number of slides */
+  height: 100%;
+  animation: slide-3 12s infinite;
+}
+
+.slides-wrapper-4 {
+  display: flex;
+  width: 400%; /* Total width = 100% * number of slides */
+  height: 100%;
+  animation: slide-4 12s infinite;
+}
+
+/* Individual slide */
+.slide {
+  flex: 100%; /* Each slide takes up 100% of the container width */
+  height: 100%;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+/* Image styling */
+.slide img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+
+/* Keyframes for sliding effect */
+@keyframes slide-3 {
+  0%, 15% { 
+    transform: translateX(0); /* Slide 1 */
+  }
+  25%, 40% {
+    transform: translateX(-33%); /* Slide 2 */
+  }
+  50%, 65% {
+    transform: translateX(-67%); /* Slide 3 */
+  }
+  75%, 100% {
+    transform: translateX(0); /* Back to Slide 1 */
+  }
+}
+
+/* Keyframes for sliding effect */
+@keyframes slide-4 {
+  0%, 15% { 
+    transform: translateX(0); /* Slide 1 */
+  }
+  25%, 40% {
+    transform: translateX(-25%); /* Slide 2 */
+  }
+  50%, 65% {
+    transform: translateX(-50%); /* Slide 3 */
+  }
+  75%, 90% {
+    transform: translateX(-75%); /* Slide 4 */
+  }
+  95%, 100% {
+    transform: translateX(0); /* Back to Slide 1 */
+  }
 }

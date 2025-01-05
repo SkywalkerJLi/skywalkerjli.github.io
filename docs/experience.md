@@ -17,7 +17,7 @@ for faster development of business permissions
 - Work highlighted on the Trust and Platform Foundations group with over 1500 members
 
 ---
-<br><br>
+<br>
 <div class="img">
     <img class="large-img" src="{{ 'assets/fastlab.jpg' }}" />
 </div>
@@ -35,7 +35,7 @@ for faster development of business permissions
 [front-page]: https://aps.org/publications/apsnews/202402/drones.cfm.
 
 ---
-<br><br>
+<br>
 
 
 <div class="img">
