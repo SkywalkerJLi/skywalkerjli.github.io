@@ -261,3 +261,14 @@
   margin-left: $spacing-unit;
   border-radius: 5%;
 }
+
+.large-img {
+  max-width: 10%;
+  float: right;
+  margin-left: $spacing-unit;
+}
+
+.regular-img {
+  max-width: 30%;
+  float: right;
+}
