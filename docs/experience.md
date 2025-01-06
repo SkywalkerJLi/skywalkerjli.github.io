@@ -29,7 +29,8 @@ for faster development of business permissions
 **Research Intern** @ IROM Lab and FAST Group
 
 - Co-presented novel wind-aware drone platform at 2023 American Physics Society conference; work featured on APS website [front page][front-page]
-- Invented first-ever experimentally validated drone controller using derived drone dynamics to perform gust acceptance under complex turbulence. Developed drone simulator to implement theoretical controller.
+- Invented first-ever experimentally validated drone controller using derived drone dynamics to perform gust acceptance under complex turbulence. New controller improves max velocity tracking by **68%** over baseline 
+- Developed drone simulator to implement theoretical controller.
 - Engineered autonomous robot to collect wind velocity and position data and implemented pathfinding, localization, and motion control. Created data visualization program to highlight key results.
 
 [front-page]: https://aps.org/publications/apsnews/202402/drones.cfm.
