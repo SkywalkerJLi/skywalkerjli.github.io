@@ -73,11 +73,3 @@ winning ILSVRC paper, “Squeeze-and-Excitation Networks”
 emotions
 
 [visual-paper-link]: https://docs.google.com/document/d/1x_1tO2GJ08z3Lz17qJXgIQUU8xGM2EZYdcLey7O5yJU/edit?tab=t.0#heading=h.uviz3msp9i7p
-
-
-<!-- 
-Independent Robotics Projects
-June 2021 – June 2022
-- Engineered a self-driving trash can and a voice-activated spice machine as technical projects.
-- Implemented Deep Learning-based speech-to-text engine, OpenCV and CNN lane navigation, designed custom
-smart speaker software in Python libraries, designed 3D models and circuitry, and pitched products to angel investors. -->
