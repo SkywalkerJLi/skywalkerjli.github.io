@@ -50,7 +50,7 @@ permalink: /projects/
 <br><br>
 
 # Visual Emotion Classifier [[Paper]][visual-paper-link]
-**Skywalker Li***, Jack Zhang, Artha Abeysinghe (Equal Contribution)
+**Skywalker Li***, Jack Zhang, Artha Abeysinghe 
 
 <div class="slideshow-container">
     <div class="slides-wrapper-3">
