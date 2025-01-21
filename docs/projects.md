@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 # Self-Balancing Segway [[Paper]][segway-paper-link]
-**Skywalker Li***, Alex Tseng
+**Skywalker Li**, Alex Tseng
 
 <div class="slideshow-container">
     <div class="slides-wrapper-4">
@@ -50,7 +50,7 @@ permalink: /projects/
 <br><br>
 
 # Visual Emotion Classifier [[Paper]][visual-paper-link]
-**Skywalker Li***, Jack Zhang, Artha Abeysinghe 
+**Skywalker Li**, Jack Zhang, Artha Abeysinghe 
 
 <div class="slideshow-container">
     <div class="slides-wrapper-3">
